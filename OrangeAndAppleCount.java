@@ -1,8 +1,6 @@
 /*
   Problem: https://www.hackerrank.com/challenges/apple-and-orange
-  C# Language Version: 6.0
-  .Net Framework Version: 4.7
-  Tool Version : Visual Studio Community 2017
+  Coded in Java
   Thoughts :
   1. Let house start and end positions be hs and he resrpectively.
   2. Let apple and orange tree positions be ta and to respectively.
